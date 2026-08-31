@@ -1,6 +1,6 @@
 # Python Case Studies
 
-Practical Python case studies built to strengthen programming and backend skills.
+A collection of Python case studies I build while learning and improving my programming skills.
 
 ## Case Studies
 
