@@ -5,3 +5,4 @@ A collection of Python case studies I build while learning and improving my prog
 ## Case Studies
 
 - Student Management API — Python + FastAPI
+- Movie Management System — Python
